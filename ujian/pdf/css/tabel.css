@@ -1,0 +1,36 @@
+
+@page {
+   
+  
+}
+table{
+	border-spacing:0;
+	border-padding:0;
+}
+
+.judul{
+text-align:center;
+font-size:22px;
+}
+.tandatangan{
+	
+	margin-left:400px;
+}
+.judulku{
+text-align:center;
+}
+.table {
+  width: 98%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+}
+.table-bordered {
+  border: 1px solid #dee2e6;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border: 1px solid #dee2e6;
+  text-align:center;
+  padding:1px 10px;
+}

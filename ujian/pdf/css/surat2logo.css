@@ -1,0 +1,100 @@
+
+table{
+	border-spacing:0;
+	border-padding:0;
+	font-size:11px
+}
+
+.kotak{
+	width:100%;
+	margin-bottom:-30px;
+}
+.kotak1{
+	width:15%;
+	height:150px;
+
+}
+.kotak1 img{
+	max-width:100%;
+}
+.kotak2{
+	width:65%;
+	height:150px;
+	text-align:center;
+	margin-left:16%;
+	margin-top:-150px;
+
+}
+.kotak2 img{
+	max-width:100%;
+}
+.kotak3{
+	width:15%;
+	height:150px;
+
+	margin-top:-150px;
+	margin-left:85%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.judulsurat{
+	text-align:center;
+	font-size:16px;
+}
+.barcode{
+	margin: 30px;
+}	
+
+
+.pemerintah, .dinas, .sekolah{
+	font-size:18px;
+}
+.alamat, .tambahan{
+	font-size:12px;
+	font-style:italic;
+}
+
+
+.judul{
+text-align:center;
+font-size:22px;
+}
+.tandatangan{
+	margin-left:450px;
+	font-size:14px;
+	margin-right:10px;
+	margin-top:-90px;
+	
+	
+}
+.judulku{
+text-align:center;
+}
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+}
+.table-bordered {
+  border: 1px solid #dee2e6;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border: 1px solid #dee2e6;
+
+  padding:1px 10px;
+}
+.table-bordered th{
+	text-align:center;
+}

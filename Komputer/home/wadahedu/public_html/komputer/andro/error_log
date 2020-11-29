@@ -1,0 +1,4 @@
+[05-Jan-2020 10:17:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'wadahedu_ekotimo'@'localhost' to database 'wadahedu_ekstra' in /home/wadahedu/public_html/komputer/system/koneksi.php on line 7
+[05-Jan-2020 10:17:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'wadahedu_ekotimo'@'localhost' to database 'wadahedu_ekstra' in /home/wadahedu/public_html/komputer/system/koneksi.php on line 7
+[05-Jan-2020 10:17:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'wadahedu_ekotimo'@'localhost' to database 'wadahedu_ekstra' in /home/wadahedu/public_html/komputer/system/koneksi.php on line 7
+[05-Jan-2020 10:17:55 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'wadahedu_ekotimo'@'localhost' to database 'wadahedu_ekstra' in /home/wadahedu/public_html/komputer/system/koneksi.php on line 7

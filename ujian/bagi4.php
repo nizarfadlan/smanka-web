@@ -1,0 +1,55 @@
+<?php
+if($nomer>$bataspil){
+	
+	
+$ambil=mysqli_query($kon, "select urutan, jawab, pertanyaan from soalpgessay inner join $nama on soalpgessay.no_soal=$nama.tanya and soalpgessay.id_mapel=$nama.id_mapel where $nama.id_mapel='$idmapel' and $nama.user='$nouser' and $nama.urutan='$nomer'") or die ("Query Gagal ".mysqli_error());
+$muncul=mysqli_fetch_array($ambil);
+$urt=$muncul['urutan'];
+$jwbisian1=$muncul['jawab'];
+
+
+
+$soal=$muncul['pertanyaan'];
+
+	
+	
+}else{
+
+
+$ambil=mysqli_query($kon, "select urutan, jawab, ragu, j1,j2, j3, j4, j5, A, B, C, D, E, pertanyaan from soalpg inner join $nama on soalpg.no_soal=$nama.tanya and soalpg.id_mapel=$nama.id_mapel where $nama.id_mapel='$idmapel' and $nama.user='$nouser' and $nama.urutan='$nomer'") or die ("Query Gagal ".mysqli_error());
+$muncul=mysqli_fetch_array($ambil);
+$urt=$muncul['urutan'];
+$jwb=$muncul['jawab'];
+
+$a12=$muncul['j1'];
+$b12=$muncul['j2'];
+$c12=$muncul['j3'];
+$d12=$muncul['j4'];
+$e12=$muncul['j5'];
+
+$ragu=$muncul['ragu'];
+if($ragu==1){$nilairagu="checked"; ;} else {$nilairagu="";}
+
+
+$jwba=$muncul[$a12];
+$jwbb=$muncul[$b12];
+$jwbc=$muncul[$c12];
+$jwbd=$muncul[$d12];
+$jwbe=$muncul[$e12];
+  
+
+
+if($jwb==$a12){$nilaiA="checked"; $pilih="A" ;} else {$nilaiA="";}
+if($jwb==$b12){$nilaiB="checked"; $pilih="B";} else {$nilaiB=""; }
+if($jwb==$c12){$nilaiC="checked"; $pilih="C";} else {$nilaiC="";}
+if($jwb==$d12){$nilaiD="checked"; $pilih="D";} else {$nilaiD=""; }
+if($jwb==$e12){$nilaiE="checked"; $pilih="E";} else {$nilaiE=""; }
+
+
+
+$soal=$muncul['pertanyaan'];
+
+}
+
+
+?>

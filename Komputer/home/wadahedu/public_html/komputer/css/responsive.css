@@ -1,0 +1,478 @@
+
+
+
+@media (min-width: 240px) {
+	.window {
+width: 80%;
+
+margin:5% auto;
+
+
+}
+.nosoal{
+	font-size:11px;
+}
+.boxkanan{
+	width:50%;
+}
+.bingkai{
+	height:55px;
+}
+.gb2 img{
+	height:40px;
+	margin-top:5px;
+	
+}
+.gb1 img{
+	height:40px;
+	margin-top:5px;
+	
+}
+.judul1{
+	font-size:10px;
+}
+.judul2{
+	font-size:9px;
+}
+ .turun{
+	margin-top:64px;
+}
+	.batas1{
+	height:50px;
+	width:100%;
+}
+.soalatas2{
+	display:inline-block;
+	height:20px;
+	font-size:11px;
+	padding-right:0;
+	
+}
+.soalatas{
+	display:inline-block;
+	height:20px;
+	font-size:12px;
+	padding-left:0;
+
+	
+}
+.finish{
+	
+	width:40px;
+	margin-left:30%;
+	margin-top:-47px;
+	position:fixed;
+	font-size:8px;
+	height:18px;
+}
+
+.raguragu{
+	
+	margin:0 auto;
+	width:90px;
+	background:#E9E22A;
+	color:#570809;
+	font-size:14px;
+	display:block;
+	height:25px;
+
+	
+}
+.header {
+  padding: 5px 16px 5px 16px;
+background:#dadada;
+border-bottom:1px solid #888c89;
+}	
+.tombol{
+display:block;
+background:red;
+padding:3px 3px 3px 10px;
+color:#fff;
+font-size:10px;
+width:65px;
+}
+.tombol1{
+display:block;
+background:blue;
+padding:5px 5px 5px 13px;
+color:#fff;
+font-size:10px;
+width:100px;
+}
+.A{margin-top:14px; background-image:url(../asset/A.png);}
+.B{margin-top:14px;background-image:url(../asset/B.png);}
+.C{margin-top:14px;background-image:url(../asset/C.png);}
+.D{margin-top:14px;background-image:url(../asset/D.png);}
+.E{margin-top:14px;background-image:url(../asset/E.png);}
+}
+
+@media (min-width: 576px) {
+
+.boxkanan{
+	width:50%;
+}
+.bingkai{
+	height:55px;
+}
+.gb2 img{
+	height:45px;
+	margin-top:3px;
+	
+}
+.gb1 img{
+	height:45px;
+	margin-top:3px;
+	
+}
+.judul1{
+	font-size:10px;
+}
+.judul2{
+	font-size:10px;
+}
+ .turun{
+	margin-top:58px;
+}
+	.batas1{
+	height:40px;
+	width:100%;
+}
+.soalatas2{
+	display:inline-block;
+	height:20px;
+	font-size:14px;
+	padding-right:40px;
+	
+}
+.soalatas{
+	display:inline-block;
+	height:20px;
+	font-size:14px;
+	padding-left:30px;
+
+}
+.raguragu{
+	
+	margin:0 auto;
+	width:110px;
+	background:#E9E22A;
+	color:#570809;
+	font-size:14px;
+	display:block;
+	height:25px;
+
+	
+}	
+.finish{
+	
+	width:40px;
+	margin-left:35%;
+	margin-top:-55px;
+	position:fixed;
+	font-size:8px;
+	height:18px;
+}
+.header {
+  padding: 5px 16px 10px 16px;
+background:#dadada;
+border-bottom:1px solid #888c89;
+}	
+.tombol{
+display:block;
+background:red;
+padding:5px 5px 5px 15px;
+color:#fff;
+font-size:13px;
+width:100px;
+}
+.tombol1{
+display:block;
+background:blue;
+padding:5px 5px 5px 13px;
+color:#fff;
+font-size:12px;
+width:130px;
+}
+.A{margin-top:8px; background-image:url(../asset/A.png);}
+.B{margin-top:8px;background-image:url(../asset/B.png);}
+.C{margin-top:8px;background-image:url(../asset/C.png);}
+.D{margin-top:8px;background-image:url(../asset/D.png);}
+.E{margin-top:8px;background-image:url(../asset/E.png);}
+}
+
+@media (min-width: 768px) {
+
+.boxkanan{
+	width:40%;
+}
+.bingkai{
+	height:80px;
+}
+.gb2 img{
+	height:70px;
+	margin-top:5px;
+	  
+}
+.gb1 img{
+	height:70px;
+	margin-top:5px;
+}
+ .turun{
+	margin-top:85px;
+}
+.judul1{
+	font-size:16px;
+}
+.judul2{
+	font-size:16px;
+}
+	.batas1{
+	height:70px;
+	width:100%;
+}
+.soalatas2{
+	display:inline-block;
+	height:20px;
+	font-size:16px;
+	padding-right:30px;
+	
+}
+.soalatas{
+	display:inline-block;
+	height:20px;
+	font-size:16px;
+	padding-left:30px;
+}
+.raguragu{
+	
+	margin:0 auto;
+	width:120px;
+	background:#E9E22A;
+	color:#570809;
+	font-size:14px;
+	display:block;
+	height:25px;
+
+	
+}	
+.finish{
+	
+	width:40px;
+	margin-left:45%;
+	margin-top:-55px;
+	position:fixed;
+	font-size:8px;
+	height:18px;
+}
+.header {
+  padding: 5px 16px 10px 16px;
+background:#dadada;
+border-bottom:1px solid #888c89;
+}	
+.tombol{
+display:block;
+background:red;
+padding:5px 5px 5px 15px;
+color:#fff;
+font-size:12px;
+width:100px;
+}
+.tombol1{
+display:block;
+background:blue;
+padding:5px 5px 5px 13px;
+color:#fff;
+font-size:14px;
+width:120px;
+}
+	.window {
+width: 50%;
+
+margin:5% auto;
+
+
+}
+}
+
+@media (min-width: 992px) {
+
+.boxkanan{
+	width:30%;
+}
+.bingkai{
+	height:80px;
+}
+.gb2 img{
+	height:70px;
+	margin-top:5px;
+	  
+}
+.gb1 img{
+	height:70px;
+	margin-top:5px;
+}
+ .turun{
+	margin-top:85px;
+}
+.judul1{
+	font-size:16px;
+}
+.judul2{
+	font-size:16px;
+}
+	.batas1{
+	height:80px;
+	width:100%;
+}
+.soalatas2{
+	display:inline-block;
+	height:20px;
+	font-size:18px;
+	padding-right:60px;
+	
+}
+.soalatas{
+	display:inline-block;
+	height:20px;
+	font-size:18px;
+	padding-left:30px;
+
+	
+}
+.raguragu{
+	
+	margin:0 auto;
+	width:130px;
+	background:#E9E22A;
+	color:#570809;
+	font-size:14px;
+	display:block;
+	height:25px;
+
+	
+}
+.header {
+  padding: 5px 16px 15px 16px;
+background:#dadada;
+border-bottom:1px solid #888c89;
+}	
+.finish{
+	
+	width:40px;
+	margin-left:37%;
+	margin-top:-60px;
+	position:fixed;
+	font-size:8px;
+	height:18px;
+}
+.tombol{
+display:block;
+background:red;
+padding:5px 5px 5px 15px;
+color:#fff;
+font-size:14px;
+width:100px;
+}
+	.window {
+width: 50%;
+
+margin:5% auto;
+
+
+}
+}
+
+@media (min-width: 1200px) {
+
+ .boxkanan{
+	width:25%;
+}
+.bingkai{
+	height:80px;
+}
+.gb2 img{
+	height:70px;
+	margin-top:5px;
+	  
+}
+.gb1 img{
+	height:70px;
+	margin-top:5px;
+}
+ .turun{
+	margin-top:85px;
+}
+.judul1{
+	font-size:16px;
+}
+.judul2{
+	font-size:16px;
+}
+	.batas1{
+	height:80px;
+	width:100%;
+}
+.soalatas2{
+	display:inline-block;
+	height:20px;
+	font-size:18px;
+	padding-right:60px;
+	
+}
+.soalatas{
+	display:inline-block;
+	height:20px;
+	font-size:18px;
+	padding-left:30px;
+}
+.raguragu{
+	
+	margin:0 auto;
+	width:130px;
+	background:#E9E22A;
+	color:#570809;
+	font-size:14px;
+	display:block;
+	height:25px;
+}
+.finish{
+	
+	width:40px;
+	margin-left:40%;
+	margin-top:-60px;
+	position:fixed;
+	font-size:8px;
+	height:18px;
+}
+.nosoal{
+	font-size:14px;
+}
+.header {
+  padding: 5px 16px 15px 16px;
+background:#dadada;
+border-bottom:1px solid #888c89;
+}	
+.tombol{
+display:block;
+background:red;
+padding:5px 5px 5px 15px;
+color:#fff;
+font-size:14px;
+width:100px;
+}
+.tombol1{
+display:block;
+background:blue;
+padding:3px 3px 3px 10px;
+color:#fff;
+font-size:18px;
+width:125px;
+}
+	.window {
+width: 50%;
+
+margin:5% auto;
+
+
+}
+}

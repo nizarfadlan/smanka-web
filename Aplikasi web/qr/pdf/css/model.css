@@ -1,0 +1,46 @@
+th{
+	padding:5px 10px;
+}
+td{
+	padding:5px 10px;
+}
+.gambar{
+width:100px;
+margin-left:20px;
+}
+.gambar1{
+width:120px;
+margin-left:90px;
+
+
+}
+.judulkop{
+	width:850px;
+	margin-left:90px;
+	margin-top:-110px;
+	text-align:center;
+	font-size:18px;
+
+}
+.alamat{
+	width:850px;
+	margin-left:90px;
+
+	text-align:center;
+
+}
+.alamat1{
+	width:850px;
+	margin-left:90px;
+
+	text-align:center;
+	font-size:12px;
+
+}
+.garis{
+	margin-top:-28px;
+}
+.kopsurat1{
+	text-align:center;
+	margin-left:150px;
+}
