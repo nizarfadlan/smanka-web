@@ -117,3 +117,6 @@
 
 **Soal B.Jawa**
 `sman1kaliwungu.sch.id/smanka/previewsoal.php?kirim=jawa12&nomer=1&jml=50&sp=&batas=50`
+
+**Soal Ekonomi**
+`sman1kaliwungu.sch.id/smanka/previewsoal.php?kirim=eko12pas1riskah&nomer=1&jml=50&sp=&batas=50`
