@@ -37,13 +37,13 @@
    Metode inject harus menggunakan pihak kedua yaitu web local atau bisa web online
    1. Metode Inject Post
       lansung ke awal atau siap ujian
-      `sman1kaliwungu.sch.id/awal.php`
+      `sman1kaliwungu.sch.id/smanka/awal.php`
       > Post Body
       >
       > id=(noujian/nisn)
    2. Metode Inject
       Metode login seperti android
-      `sman1kaliwungu.sch.id/signin.php`
+      `sman1kaliwungu.sch.id/smanka/signin.php`
       > Post Body
       >
       > masuk=(noujian/nisn)&mlebu=(password)
@@ -60,29 +60,27 @@
    `sman1kaliwungu.sch.id/smanka/ulanganexcel.php?kirim=0geo12vero`
 
 ##### Cek Laporan nilai
-   `sman1kaliwungu.sch.id/laporan.php`
+   `sman1kaliwungu.sch.id/smanka/laporan.php`
    > Post Body
    >
    > kirim=0geo12vero
 
 ##### Cek Raport
    1. Metode Inject Post
-      lansung ke awal atau siap ujian
-      `sman1kaliwungu.sch.id/raport.php`
+      `sman1kaliwungu.sch.id/smanka/raport.php`
       > Post Body
       >
       > kirim=0geo12vero
-   2. Metode Inject
-      Metode login seperti android
-      `sman1kaliwungu.sch.id/reportnya.php`
+   2. Metode Inject Post
+      `sman1kaliwungu.sch.id/smanka/reportnya.php`
       > Post Body
       >
       >  kirim=0geo12vero
 
 ##### Reset Peserta
-   `sman1kaliwungu.sch.id/reset.php`
-   `sman1kaliwungu.sch.id/reset1.php?user=(noujian/nisn)&id=geo12vero`
-   `sman1kaliwungu.sch.id/reset2.php?user=(noujian/nisn)&id=geo12vero`
+   `sman1kaliwungu.sch.id/smanka/reset.php`
+   `sman1kaliwungu.sch.id/smanka/reset1.php?user=(noujian/nisn)&id=geo12vero`
+   `sman1kaliwungu.sch.id/smanka/reset2.php?user=(noujian/nisn)&id=geo12vero`
 
 
 
