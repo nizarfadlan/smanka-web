@@ -81,6 +81,7 @@
    `sman1kaliwungu.sch.id/smanka/reset.php`
    `sman1kaliwungu.sch.id/smanka/reset1.php?user=(noujian/nisn)&id=geo12vero`
    `sman1kaliwungu.sch.id/smanka/reset2.php?user=(noujian/nisn)&id=geo12vero`
+   `sman1kaliwungu.sch.id/smanka/reset12.php?user=(noujian/nisn)&id=geo12vero`
 
 
 
