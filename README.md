@@ -100,7 +100,7 @@
 >> - ``4 = Untuk Soal PG``
 
 ## Tipe Soal + ID Mapel
-Mapel             = Tipe Soal + ID mapel\
+Mapel             = Tipe Soal + ID mapel
 
 
 Matematika        = 1 + matwajib12rat\
