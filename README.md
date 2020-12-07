@@ -99,15 +99,27 @@
 >> - ``2 = Untuk Soal Listening Inggris``
 >> - ``4 = Untuk Soal PG``
 
-ID Mapel
-Matematika = 1matwajib12rat = 1 kode spesial = matwajib12rat = kode mapel
-Agama = 0agama12muja
-SeniBudaya = 0sbd12gun
-Bhs. Inggris = 2inggris12uswatun
+## Tipe Soal + ID Mapel
+Mapel             = Tipe Soal + ID mapel
+Matematika        = 1 + matwajib12rat
+PAI               = 0 + agama12muja
+SeniBudaya        = 0 + sbd12gun
+Bhs. Inggris      = 2 + inggris12uswatun
+Biologi           = 0 + biolm12dewi
+Sej. Peminatan    = 0 + sejp12eko
+Sosiologi         = 0 + sosio12indah
+Prakarya          = 0 + prakarya12riza
+Penjas            = 0 + penjas12nawa
+B. Jawa           = 0 + jawa12
+Ekonomi           = 0 + eko12pas1riskah
+Bhs. Indonesia    = 0 + indo12muji
+Sej. Indonesia    = 0 + sejindo12ishadiyati
+PPKN              = 0 + ppkn12dyah
+Geografi          = 0 + geo12vero
 
 
 
-# Soal PAS Tahun 2020
+# Contoh Soal PAS Tahun 2020
 **Soal Biologi**
 `sman1kaliwungu.sch.id/smanka/previewsoal.php?kirim=biolm12dewi&nomer=1&jml=40&sp=&batas=40`
 
