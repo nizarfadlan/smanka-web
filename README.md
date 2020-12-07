@@ -8,10 +8,10 @@
 ### Riset Curang Atau Inject Tes
 
 ##### Nonaktifkan & Aktifkan Mapel Tes
-   - Nonaktifkan Mapel
+   - Nonaktifkan Mapel\
    `sman1kaliwungu.sch.id/smanka/aktif.php?mapel=geo12vero&stat=0`
 
-   - Aktifkan Mapel
+   - Aktifkan Mapel\
    `sman1kaliwungu.sch.id/smanka/aktif.php?mapel=geo12vero&stat=1`
 
 ##### Nonaktifkan & Aktifkan Acak Soal
