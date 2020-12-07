@@ -98,6 +98,9 @@
 
 ID Mapel
 Matematika = 1matwajib12rat = 1 kode spesial = matwajib12rat = kode mapel
+Agama = 0agama12muja
+SeniBudaya = 0sbd12gun
+Bhs. Inggris = 2inggris12uswatun
 
 
 
