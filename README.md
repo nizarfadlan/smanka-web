@@ -96,6 +96,9 @@
 >> - ``2 = Untuk Soal Listening Inggris``
 >> - ``4 = Untuk Soal PG``
 
+ID Mapel
+Matematika = 1matwajib12rat = 1 kode spesial = matwajib12rat = kode mapel
+
 
 
 # Soal PAS Tahun 2020
