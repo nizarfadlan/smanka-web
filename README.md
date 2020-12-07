@@ -100,7 +100,9 @@
 >> - ``4 = Untuk Soal PG``
 
 ## Tipe Soal + ID Mapel
-Mapel             = Tipe Soal + ID mapel\\
+Mapel             = Tipe Soal + ID mapel\
+
+
 Matematika        = 1 + matwajib12rat\
 PAI               = 0 + agama12muja\
 SeniBudaya        = 0 + sbd12gun\
