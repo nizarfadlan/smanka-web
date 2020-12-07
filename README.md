@@ -117,7 +117,7 @@ Ekonomi           = 0 + eko12pas1riskah\
 Bhs. Indonesia    = 0 + indo12muji\
 Sej. Indonesia    = 0 + sejindo12ishadiyati\
 PPKN              = 0 + ppkn12dyah\
-Geografi          = 0 + geo12vero\
+Geografi          = 0 + geo12vero
 
 
 
