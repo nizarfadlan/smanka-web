@@ -82,6 +82,8 @@
 ##### Cetak Nilai
    `sman1kaliwungu.sch.id/smanka/cetak.php`\
    `sman1kaliwungu.sch.id/smanka/ulanganexcel.php?kirim=0geo12vero`
+   `sman1kaliwungu.sch.id/smanka/pdf/ujian7.php?mapel=geo12vero`
+   `sman1kaliwungu.sch.id/smanka/pdf/ujian.php?mapel=geo12vero`
 
 ##### Cek Laporan nilai
    `sman1kaliwungu.sch.id/smanka/laporan.php`
