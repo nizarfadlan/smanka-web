@@ -57,6 +57,13 @@
 
    - Aktifkan Client\
    `sman1kaliwungu.sch.id/smanka/aktif.php?stat=1`
+   
+##### Nonaktifkan & Aktifkan Nilai diClient
+   - Nonaktifkan Nilai Client\
+   `sman1kaliwungu.sch.id/smanka/client.php?stat=0`
+
+   - Aktifkan Nilai Client\
+   `sman1kaliwungu.sch.id/smanka/client.php?stat=1`
 
 ##### Cetak Nilai
    `sman1kaliwungu.sch.id/smanka/cetak.php`\
