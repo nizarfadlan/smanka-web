@@ -71,6 +71,13 @@
 
    - Aktifkan Reset Siswa\
    `sman1kaliwungu.sch.id/smanka/matil.php?stat=1`
+   
+##### Nonaktifkan & Aktifkan Token
+   - Nonaktifkan Token\
+   `sman1kaliwungu.sch.id/smanka/mati.php?stat=0`
+
+   - Aktifkan Reset Token\
+   `sman1kaliwungu.sch.id/smanka/mati.php?stat=1`
 
 ##### Cetak Nilai
    `sman1kaliwungu.sch.id/smanka/cetak.php`\
