@@ -95,6 +95,12 @@
    >
    > kirim=geo12vero
 
+##### Paksa Selesai
+   1. Paksa Semua
+      `sman1kaliwungu.sch.id/smanka/paksasemuanya.php?kirim`
+   2. Paksa Beberapa siswa
+      `sman1kaliwungu.sch.id/smanka/paksaselesai.php?user=(no ujian/nisn)&id=geo12vero`
+
 ##### Cek Raport
    1. Metode Inject Post\
       `sman1kaliwungu.sch.id/smanka/raport.php`
