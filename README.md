@@ -21,8 +21,11 @@
    - Aktifkan Acak\
    `sman1kaliwungu.sch.id/smanka/acak2.php?stat=1`
 
-##### Ulangi Kerjakan Test
+##### Ulangi Kerjakan Test Melanjutkan waktu
    `sman1kaliwungu.sch.id/smanka/ulangi.php?ujian=(noujian/nisn)&mapel=geo12vero`
+   
+##### Ulangi Kerjakan Test dari nol
+   `sman1kaliwungu.sch.id/smanka/ulanginol.php?ujian=(noujian/nisn)&mapel=geo12vero`
 
 ##### Ambil Token Ujian
    `sman1kaliwungu.sch.id/smanka/ambiltoken.php`
