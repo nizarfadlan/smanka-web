@@ -89,6 +89,12 @@
    >
    > kirim=0geo12vero
 
+##### Cek Siswa belum tes
+   `sman1kaliwungu.sch.id/smanka/belumtest.php`
+   > Post Body
+   >
+   > kirim=geo12vero
+
 ##### Cek Raport
    1. Metode Inject Post\
       `sman1kaliwungu.sch.id/smanka/raport.php`
