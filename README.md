@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
+<img src="https://nidev.me/fesco/assets/images/logo.png" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Fesco" src="https://img.shields.io/badge/Fesco-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -8,7 +8,7 @@
 <a href="https://github.com/nizariyf"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARUGAZ-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/nizariyf/Riset-ABT-SMANKA/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/nizariyf/Riset-ABT-SMANKA/badge/master"></a>
+<a href="https://www.codefactor.io/repository/github/nizariyf/riset-abt-smanka/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/nizariyf/riset-abt-smanka/badge/master"></a>
 </p>
 <p align="center">
 <a href="https://github.com/arugaz/followers"><img title="Followers" src="https://img.shields.io/github/followers/nizariyf?color=blue&style=flat-square"></a>
@@ -31,14 +31,8 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 </div>
 
 ---
-
-![https://nidev.me](https://nidev.me/fesco/assets/images/logo.png)
 ## Riset ABT SMANKA
 ```Riset ABT SMANKA V 4.1 pada tahun 2020```
-
-## Website Fesco Khusus Tes
-[Nidev Fesco](https://nidev.me/fesco/secret)
-
 
 ### Nonaktifkan & Aktifkan Mapel Tes
    - Nonaktifkan Mapel\
