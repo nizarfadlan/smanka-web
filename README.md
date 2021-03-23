@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://nidev.me/fesco/assets/images/logo.png" width="128" height="128"/>
+<img src="https://nidev.me/fesco/assets/images/logo.png"/>
 </p>
 <p align="center">
 <a href="#"><img title="Fesco" src="https://img.shields.io/badge/Fesco-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
