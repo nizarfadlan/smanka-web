@@ -70,7 +70,7 @@ Semua ini bisa berubah karena ini hanya dokumentasi selama saya sekolah
    `sman1kaliwungu.sch.id/smanka/ulanganexcel.php?kirim=(tipe soal dan id mapel)`
 
 ### Login Ujian Tanpa APK
-   `sman1kaliwungu.sch.id/smanka/and.php`\n
+   `sman1kaliwungu.sch.id/smanka/and.php`\
    :warning: Bug SQL Injection
 
    Metode inject harus menggunakan pihak kedua yaitu web local atau bisa web online
@@ -79,14 +79,16 @@ Semua ini bisa berubah karena ini hanya dokumentasi selama saya sekolah
       `sman1kaliwungu.sch.id/smanka/awal.php`
       > Post Body
       >
-      > id=(noujian/nisn)\
+      > id=(noujian/nisn)
+
       :warning: Bug SQL Injection
    2. Metode Inject\
       Metode login seperti android\
       `sman1kaliwungu.sch.id/smanka/signin.php`
       > Post Body
       >
-      > masuk=(noujian/nisn)&mlebu=(password)\
+      > masuk=(noujian/nisn)&mlebu=(password)
+
       :warning: Bug SQL Injection
 
 ### Nonaktifkan & Aktifkan Client
