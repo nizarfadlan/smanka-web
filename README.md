@@ -35,8 +35,7 @@
 </div>
 
 ---
-## Riset ABT SMANKA
-```Riset ABT SMANKA V 4.1 pada tahun 2020```
+```ABT SMANKA pada tahun 2019-2021```
 
 ### Nonaktifkan & Aktifkan Mapel Tes
    - Nonaktifkan Mapel\
