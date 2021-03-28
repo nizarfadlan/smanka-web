@@ -20,7 +20,11 @@
 </p>
 <div align="center">
  <details>
- <a href="https://trakteer.id/nizariyf" target="_blank"><img title="Trakteer" src="https://img.shields.io/badge/Fesco-red?style=for-the-badge"></a>
+  <summary>Support</summary>
+  <p align="center">
+   <a href="https://trakteer.id/nizariyf" target="_blank"><img title="Trakteer" src="https://img.shields.io/badge/Trakteer-red?style=for-the-badge"></a>
+   <a href="https://paypal.me/niyf1" target="_blank"><img title="Trakteer" src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge"></a>
+  </p>
  </details>
  Jangan lupa ⭐️ ya :D
  <p align="center">
