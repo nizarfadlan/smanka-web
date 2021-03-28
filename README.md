@@ -26,7 +26,7 @@
    <a href="https://paypal.me/niyf1" target="_blank"><img title="Trakteer" src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge"></a>
   </p>
  </details>
- Jangan lupa ⭐️ ya :D
+ Jangan lupa ⭐️ ya :wink:
  <p align="center">
   <a href="https://nidev.me/fesco" target="_blank"><img title="Web Fesco" src="https://img.shields.io/badge/Website-Fesco-success"></a>
   <a href="https://instagram.com/nizariyf_/" target="_blank"><img title="IG" src="https://img.shields.io/badge/Follow-Instagram-orange"></a>
@@ -70,7 +70,8 @@ Semua ini bisa berubah karena ini hanya dokumentasi selama saya sekolah
    `sman1kaliwungu.sch.id/smanka/ulanganexcel.php?kirim=(tipe soal dan id mapel)`
 
 ### Login Ujian Tanpa APK
-   `sman1kaliwungu.sch.id/smanka/and.php`
+   `sman1kaliwungu.sch.id/smanka/and.php`\n
+   :warning: Bug SQL Injection
 
    Metode inject harus menggunakan pihak kedua yaitu web local atau bisa web online
    1. Metode Inject Post\
@@ -78,13 +79,15 @@ Semua ini bisa berubah karena ini hanya dokumentasi selama saya sekolah
       `sman1kaliwungu.sch.id/smanka/awal.php`
       > Post Body
       >
-      > id=(noujian/nisn)
+      > id=(noujian/nisn)\
+      :warning: Bug SQL Injection
    2. Metode Inject\
       Metode login seperti android\
       `sman1kaliwungu.sch.id/smanka/signin.php`
       > Post Body
       >
-      > masuk=(noujian/nisn)&mlebu=(password)
+      > masuk=(noujian/nisn)&mlebu=(password)\
+      :warning: Bug SQL Injection
 
 ### Nonaktifkan & Aktifkan Client
    - Nonaktifkan Client\
@@ -220,8 +223,6 @@ Geografi          = 0 + geo12vero
 Semua ini bisa berubah karena ini hanya dokumentasi selama saya sekolah
 
 ### Ambil Soal Ulangan
-   `sman1kaliwungu.sch.id/elearning/ujian/muncul.php?kirim=(id ulangan)&nama=(terserah)`
-   `sman1kaliwungu.sch.id/elearning/ujian/buat.php?no=(nomer soal)&id=(id ulangan)`
-   - Bug Self XSS
-     `sman1kaliwungu.sch.id/elearning/ujian/muncul.php?kirim=(id_ulangan)&nama=<script>alert(1)</script>`
+   `sman1kaliwungu.sch.id/elearning/ujian/muncul.php?kirim=(id ulangan)&nama=(terserah)` :warning: Bug Self XSS\
+   `sman1kaliwungu.sch.id/elearning/ujian/buat.php?no=(nomer soal)&id=(id ulangan)`\
    
