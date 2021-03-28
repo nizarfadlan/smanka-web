@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://nidev.me/fesco/assets/images/logo.png" width="200" height="200"/>
+<img src="https://nidev.me/fesco/assets/images/logo.png" width="200"/>
 </p>
 <p align="center">
 <a href="#"><img title="Fesco" src="https://img.shields.io/badge/Fesco-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -27,7 +27,7 @@
 
 jangan lupa ⭐️ ya :D
 <p align="center">
- <a href="https://nidev.me/fesco" target="_blank"><img title="Forks" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fnidev.me/fesco"></a>
+ <a href="https://nidev.me/fesco" target="_blank"><img title="Web Fesco" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fnidev.me/fesco"></a>
  <a href="https://instagram.com/nizariyf_/" target="_blank">Chat me on Insta</a>.
 </p>
 </div>
