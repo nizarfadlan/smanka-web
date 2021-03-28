@@ -1,2 +1,0 @@
-Header unset Cache-Control
-Header append Cache-Control "no-cache, must-revalidate"
