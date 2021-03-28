@@ -6,10 +6,10 @@
 </p>
 <p align="center">
 <a href="https://github.com/nizariyf"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NIZAR-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="Version" src="https://img.shields.io/github/manifest-json/v/nizariyf/smanka-web">
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/nizariyf/smanka-web"><img title="Rating" src="https://www.codefactor.io/repository/github/nizariyf/smanka-web/badge?s=0ee70274f0c23d27688a595bdf0acbb0a2a1ee20"></a>
+<img title="Version" src="https://img.shields.io/github/manifest-json/v/nizariyf/smanka-web">
 </p>
 <p align="center">
 <a href="https://github.com/nizariyf/followers"><img title="Followers" src="https://img.shields.io/github/followers/nizariyf?color=blue&style=flat-square"></a>
@@ -19,19 +19,15 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnizariyf%2Fsmanka-web&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 <div align="center">
-<details>
- <summary>🥟 Help me!</summary>
- 
- [Trakteer](https://trakteer.id/nizariyf)
- 
-</details>
-
-jangan lupa ⭐️ ya :D
-<p align="center">
- <a href="https://nidev.me/fesco" target="_blank"><img title="Web Fesco" src="https://img.shields.io/badge/Website-Fesco-success"></a>
- <a href="https://instagram.com/nizariyf_/" target="_blank"><img title="IG" src="https://img.shields.io/badge/Follow-Instagram-orange"></a>
- <a href="https://nizar.tech" target="_blank"><img title="Web Portofolio" src="https://img.shields.io/badge/Website-Pribadi-blueviolet"></a>
-</p>
+ <details>
+ <a href="https://trakteer.id/nizariyf" target="_blank"><img title="Trakteer" src="https://img.shields.io/badge/Fesco-red?style=for-the-badge"></a>
+ </details>
+ Jangan lupa ⭐️ ya :D
+ <p align="center">
+  <a href="https://nidev.me/fesco" target="_blank"><img title="Web Fesco" src="https://img.shields.io/badge/Website-Fesco-success"></a>
+  <a href="https://instagram.com/nizariyf_/" target="_blank"><img title="IG" src="https://img.shields.io/badge/Follow-Instagram-orange"></a>
+  <a href="https://nizar.tech" target="_blank"><img title="Web Portofolio" src="https://img.shields.io/badge/Website-Pribadi-blueviolet"></a>
+ </p>
 </div>
 
 ---
