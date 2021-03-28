@@ -6,6 +6,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/nizariyf"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NIZAR-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Version" src="https://img.shields.io/github/manifest-json/v/nizariyf/smanka-web">
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/nizariyf/smanka-web"><img title="Rating" src="https://www.codefactor.io/repository/github/nizariyf/smanka-web/badge?s=0ee70274f0c23d27688a595bdf0acbb0a2a1ee20"></a>
