@@ -8,9 +8,6 @@
 <a href="https://github.com/nizariyf"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NIZAR-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/nizariyf/smanka-web"><img title="Rating" src="https://www.codefactor.io/repository/github/nizariyf/smanka-web/badge?s=0ee70274f0c23d27688a595bdf0acbb0a2a1ee20"></a>
-</p>
-<p align="center">
 <a href="https://github.com/nizariyf/followers"><img title="Followers" src="https://img.shields.io/github/followers/nizariyf?color=blue&style=flat-square"></a>
 <a href="https://github.com/nizariyf/smanka-web/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nizariyf/smanka-web?color=red&style=flat-square"></a>
 <a href="https://github.com/nizariyf/smanka-web/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nizariyf/smanka-web?color=red&style=flat-square"></a>
