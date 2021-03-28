@@ -27,8 +27,9 @@
 
 jangan lupa ⭐️ ya :D
 <p align="center">
- <a href="https://nidev.me/fesco" target="_blank"><img title="Web Fesco" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fnidev.me/fesco"></a>
- <a href="https://instagram.com/nizariyf_/" target="_blank">Chat me on Insta</a>.
+ <a href="https://nidev.me/fesco" target="_blank"><img title="Web Fesco" src="https://img.shields.io/badge/Website-Fesco-success"></a>
+ <a href="https://instagram.com/nizariyf_/" target="_blank"><img title="IG" src="https://img.shields.io/badge/Follow-Instagram-orange"></a>
+ <a href="https://nizar.tech" target="_blank"><img title="Web Portofolio" src="https://img.shields.io/badge/Website-Pribadi-blueviolet"></a>
 </p>
 </div>
 
