@@ -215,6 +215,9 @@ Geografi          = 0 + geo12vero
 **Soal Ekonomi**\
 `sman1kaliwungu.sch.id/smanka/previewsoal.php?kirim=eko12pas1riskah&nomer=1&jml=50&sp=&batas=50`
 
+**Soal B.Inggeis**\
+`sman1kaliwungu.sch.id/smanka/previewinggris.php?kirim=ing2us&nomer=6&jml=50&sp=&batas=50`
+
 ---
 # E-Learning
 ##### E-Learning pada tahun 2019-2021
