@@ -19,14 +19,14 @@
   <summary>Support</summary>
   <p align="center">
    <a href="https://trakteer.id/nizariyf" target="_blank"><img title="Trakteer" src="https://img.shields.io/badge/Trakteer-red?style=for-the-badge"></a>
-   <a href="https://paypal.me/niyf1" target="_blank"><img title="Trakteer" src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge"></a>
+   <a href="https://paypal.me/niyf1" target="_blank"><img title="Paypal" src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge"></a>
   </p>
  </details>
  Jangan lupa ⭐️ ya :wink:
  <p align="center">
   <a href="https://nidev.me/fesco" target="_blank"><img title="Web Fesco" src="https://img.shields.io/badge/Website-Fesco-success"></a>
   <a href="https://instagram.com/nizariyf_/" target="_blank"><img title="IG" src="https://img.shields.io/badge/Follow-Instagram-orange"></a>
-  <a href="https://nizar.tech" target="_blank"><img title="Web Portofolio" src="https://img.shields.io/badge/Website-Pribadi-blueviolet"></a>
+  <a href="https://nizar.tech" target="_blank"><img title="Web Portofolio" src="https://img.shields.io/badge/Website-Portofolio-blueviolet"></a>
  </p>
 </div>
 
