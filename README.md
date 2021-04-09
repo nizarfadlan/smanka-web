@@ -225,5 +225,10 @@ Semua ini bisa berubah karena ini hanya dokumentasi selama saya sekolah
 
 ### Ambil Soal Ulangan
    `sman1kaliwungu.sch.id/elearning/ujian/muncul.php?kirim=(id ulangan)&nama=(terserah)` :warning: Bug Self XSS\
-   `sman1kaliwungu.sch.id/elearning/ujian/buat.php?no=(nomer soal)&id=(id ulangan)`\
+   `sman1kaliwungu.sch.id/elearning/ujian/buat.php?no=(nomer soal)&id=(id ulangan)`
+   
+---
+# Absen QR Code
+##### Absen QR Code 2019-2020
+Data hilang tidak bisa dipublikasikan
    
