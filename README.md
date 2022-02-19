@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://nizar.nfitec.com/fesco/assets/images/logo.png" width="200"/>
+<img src="https://nizar.nfitec.com/favicon/logo.png" width="200"/>
 </p>
 <p align="center">
 <a href="#"><img title="Fesco" src="https://img.shields.io/badge/Fesco-blueviolet?style=for-the-badge"></a>
