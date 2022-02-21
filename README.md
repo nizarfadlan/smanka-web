@@ -26,7 +26,7 @@
  </details>
  Jangan lupa ⭐️ ya :wink:
  <p align="center">
-  <a href="https://fesco.nfitec.com/" target="_blank"><img title="Web Fesco" src="https://img.shields.io/badge/Website-Fesco-success"></a>
+  <a href="https://kelasku.nfitec.com/" target="_blank"><img title="Web Fesco" src="https://img.shields.io/badge/Website-Fesco-success"></a>
   <a href="https://instagram.com/nizariyf_/" target="_blank"><img title="IG" src="https://img.shields.io/badge/Follow-Instagram-orange"></a>
   <a href="https://nizar.nfitec.com" target="_blank"><img title="Web Portofolio" src="https://img.shields.io/badge/Website-Portofolio-blueviolet"></a>
  </p>
